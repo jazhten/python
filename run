@@ -1,0 +1,6 @@
+set -e
+
+sourcename=$1
+
+python3 $1
+
